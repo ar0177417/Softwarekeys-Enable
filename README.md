@@ -1,5 +1,5 @@
 # Softwarekeys-Enable
-## magisk module
+## Magisk Module
 [Release Package](https://github.com/ar0177417/Softwarekeys-Enable/releases/tag/v2.5)
 
 **(ONLY FOR GTAXLWIFI)**
