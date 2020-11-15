@@ -1,0 +1,6 @@
+id=sw-enable
+name=Software Keys Enable
+version=2.5
+versionCode=25
+author=ar0177417 aka Ahmad Rehan
+description=This Module will enable Software keys and Disable Hardware keys 
